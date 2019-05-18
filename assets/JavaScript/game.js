@@ -5,7 +5,7 @@ $(document).ready(function(){
     var losses = 0
     var wins = 0
     var scoreMatch = 0
- //   var randonNumber = Math.floor(Math.random()*120)+19;
+ 
 
 
 
